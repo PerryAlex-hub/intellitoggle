@@ -44,7 +44,7 @@
         >
           <a
             href="https://app.intellitoggle.com"
-            class="grid place-content-center relative text-center xl:w-[260px] xl:h-[43px] lg:w-[244px] lg:h-[51px] w-full h-[40px] py-1.5 border-1 border-[#F9A71E] rounded-[8px] font-semibold cursor-pointer hover:bg-[#e8951a] lg:text-[22px] text-[14px] text-[#F9A71E] bg-[#292462]"
+            class="grid place-content-center relative text-center xl:w-[260px] xl:h-[43px] lg:w-[244px] lg:h-[51px] w-full h-[40px] py-1.5 border-1 border-[#F9A71E] rounded-[8px] font-semibold cursor-pointer lg:text-[22px] text-[14px] text-[#F9A71E] bg-[#292462]"
           >
             Join AI Early Access
           </a>
