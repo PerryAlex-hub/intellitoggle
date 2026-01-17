@@ -1,0 +1,2 @@
+-Desktop and mobile has more padding and space than the main figma design.
+-The figma design font is different from the implemented homepage font 
