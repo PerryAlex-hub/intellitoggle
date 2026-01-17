@@ -23,7 +23,7 @@
         with AI-powered delivery
         <br /><span class="text-[#F9A71E]">Starting at just $10/month</span>
       </h2>
-      <div class="flex justify-center gap-7">
+      <div class="flex sm:flex-row flex-col justify-center gap-0 sm:gap-7">
         <div
           class="2xl:mt-13 mt-10 flex sm:flex-row flex-col flex-wrap justify-center xl:gap-8 lg:gap-7 sm:gap-6 gap-3 2xl:translate-x-2.5 xl:translate-x-0 lg:translate-x-2.5"
         >
@@ -40,7 +40,7 @@
           </a>
         </div>
         <div
-          class="2xl:mt-13 mt-10 flex sm:flex-row flex-col flex-wrap justify-center xl:gap-8 lg:gap-7 sm:gap-6 gap-3 2xl:translate-x-2.5 xl:translate-x-0 lg:translate-x-2.5"
+          class="2xl:mt-13 mt-3 flex sm:flex-row flex-col flex-wrap justify-center xl:gap-8 lg:gap-7 sm:gap-6 gap-3 2xl:translate-x-2.5 xl:translate-x-0 lg:translate-x-2.5"
         >
           <a
             href="https://app.intellitoggle.com"

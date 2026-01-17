@@ -7,5 +7,8 @@
     <Documentation />
     <FeatureFlag />
     <ComingSoon />
+    <Plans />
+    <WhyTeams />
+    <LaunchFeatures />
   </div>
 </template>

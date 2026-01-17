@@ -1,7 +1,7 @@
 <template>
   <section
     style="background-image: url('/images/comingSoon.jpg');"
-    class="w-5/5 mx-auto xl:aspect-[5/2.85] lg:aspect-[5/5] aspect-[5/6] bg-cover bg-center bg-no-repeat flex flex-col items-center justify-center gap-4 px-4 md:px-16 2xl:px-29 xl:px-20 sm:py-10 py-8 xl:translate-y-0 lg:translate-y-10"
+    class="relative w-5/5 mx-auto xl:aspect-[5/2.85] lg:aspect-[5/5] aspect-[5/6] bg-cover bg-center bg-no-repeat flex flex-col items-center justify-center gap-4 px-4 md:px-16 2xl:px-29 xl:px-20 sm:py-10 py-8 xl:translate-y-0 lg:translate-y-10"
   >
   <div class="absolute inset-0 bg-[#292462] opacity-85 pointer-events-none z-0"></div>
     <div class="relative z-10">
